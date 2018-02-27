@@ -1,0 +1,13 @@
+{
+  "name": "yandex_islands",
+  "version": "1.0.0",
+  "description": "Тестовое задание Яндекса на нахождение \"островов\"",
+  "main": "index.js",
+  "repository": "https://github.com/Alexandr9719/yandex-islands",
+  "author": "Alexander",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+	"start": "node index.js"
+  }
+}
